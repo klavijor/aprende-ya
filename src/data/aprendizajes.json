@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "titulo": "¿Qué es una VPN?",
+        "contenido": "Una VPN (Red Privada Virtual) es como un túnel que protege tu conexión a internet. Te ayuda a navegar de forma segura y privada.",
+        "categoria": "Tecnología"
+    },
+    {
+        "id": 2,
+        "titulo": "¿Cuántos huesos tiene el cuerpo humano?",
+        "contenido": "Un adulto tiene 206 huesos en total. Al nacer, hay más de 300, pero algunos se fusionan con el tiempo.",
+        "categoria": "Ciencia"
+    },
+    {
+        "id": 3,
+        "titulo": "¿Qué es el efecto Doppler?",
+        "contenido": "Es el cambio en la frecuencia de una onda según el movimiento relativo entre la fuente y el observador. Por ejemplo, el sonido de una ambulancia al acercarse o alejarse.",
+        "categoria": "Física"
+    },
+    {
+        "id": 4,
+        "titulo": "¿Qué significa HTML?",
+        "contenido": "HTML son las siglas de HyperText Markup Language. Es el lenguaje básico para estructurar páginas web.",
+        "categoria": "Tecnología"
+    },
+    {
+        "id": 5,
+        "titulo": "¿Qué hacen las vacunas?",
+        "contenido": "Las vacunas enseñan al sistema inmunológico a reconocer y combatir virus o bacterias sin causar la enfermedad.",
+        "categoria": "Salud"
+    },
+    {
+        "id": 6,
+        "titulo": "¿Cuál es el río más largo del mundo?",
+        "contenido": "El río Amazonas es considerado el más largo del mundo, con aproximadamente 7.062 km.",
+        "categoria": "Geografía"
+    },
+    {
+        "id": 7,
+        "titulo": "¿Qué es el cero absoluto?",
+        "contenido": "Es la temperatura más baja teóricamente posible: -273,15 °C. En ese punto, las partículas dejan de moverse.",
+        "categoria": "Física"
+    },
+    {
+        "id": 8,
+        "titulo": "¿Cuántos planetas hay en el sistema solar?",
+        "contenido": "Hay 8 planetas en el sistema solar. Plutón fue reclasificado como planeta enano en 2006.",
+        "categoria": "Astronomía"
+    },
+    {
+        "id": 9,
+        "titulo": "¿Qué es el ADN?",
+        "contenido": "El ADN es el material genético que contiene las instrucciones para el desarrollo y funcionamiento de los seres vivos.",
+        "categoria": "Biología"
+    },
+    {
+        "id": 10,
+        "titulo": "¿Qué es el interés compuesto?",
+        "contenido": "Es cuando los intereses generados por un capital se reinvierten para generar aún más intereses.",
+        "categoria": "Finanzas"
+    },
+    {
+        "id": 11,
+        "titulo": "¿Qué significa QR en código QR?",
+        "contenido": "QR significa Quick Response (respuesta rápida). Estos códigos almacenan datos escaneables por cámaras.",
+        "categoria": "Tecnología"
+    },
+    {
+        "id": 12,
+        "titulo": "¿Qué es la fotosíntesis?",
+        "contenido": "Es el proceso mediante el cual las plantas convierten la luz solar en energía para crecer.",
+        "categoria": "Biología"
+    },
+    {
+        "id": 13,
+        "titulo": "¿Qué es un algoritmo?",
+        "contenido": "Un algoritmo es un conjunto de pasos ordenados que se siguen para resolver un problema o realizar una tarea.",
+        "categoria": "Tecnología"
+    },
+    {
+        "id": 14,
+        "titulo": "¿Quién fue Leonardo da Vinci?",
+        "contenido": "Leonardo da Vinci fue un polímata del Renacimiento, conocido por obras como La Mona Lisa y sus innovaciones en ciencia.",
+        "categoria": "Historia"
+    },
+    {
+        "id": 15,
+        "titulo": "¿Qué es un átomo?",
+        "contenido": "Es la unidad básica de la materia. Todo lo que ves está hecho de átomos.",
+        "categoria": "Ciencia"
+    },
+    {
+        "id": 16,
+        "titulo": "¿Dónde está el Monte Everest?",
+        "contenido": "El Monte Everest se encuentra en la frontera entre Nepal y China. Es la montaña más alta del mundo.",
+        "categoria": "Geografía"
+    },
+    {
+        "id": 17,
+        "titulo": "¿Por qué es importante dormir bien?",
+        "contenido": "Dormir permite que el cuerpo se recupere, fortalece la memoria y regula funciones vitales.",
+        "categoria": "Salud"
+    },
+    {
+        "id": 18,
+        "titulo": "¿Qué es una estrella?",
+        "contenido": "Es una enorme esfera de gas caliente que emite luz y calor, como el Sol.",
+        "categoria": "Astronomía"
+    },
+    {
+        "id": 19,
+        "titulo": "¿Qué es un número primo?",
+        "contenido": "Es un número mayor que 1 que solo puede dividirse por sí mismo y por 1.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 20,
+        "titulo": "¿Qué es un presupuesto?",
+        "contenido": "Es un plan que muestra cuánto dinero tienes, cuánto gastas y cuánto ahorras.",
+        "categoria": "Finanzas"
+    },
+    {
+        "id": 21,
+        "titulo": "¿Qué son los glóbulos rojos?",
+        "contenido": "Son células de la sangre que transportan oxígeno desde los pulmones al resto del cuerpo.",
+        "categoria": "Biología"
+    },
+    {
+        "id": 22,
+        "titulo": "¿Qué idioma tiene más hablantes nativos?",
+        "contenido": "El idioma con más hablantes nativos es el chino mandarín.",
+        "categoria": "Cultura General"
+    },
+    {
+        "id": 23,
+        "titulo": "¿Qué es un eclipse solar?",
+        "contenido": "Es cuando la Luna se interpone entre la Tierra y el Sol, bloqueando total o parcialmente la luz solar.",
+        "categoria": "Astronomía"
+    },
+    {
+        "id": 24,
+        "titulo": "¿Cuál es el país más pequeño del mundo?",
+        "contenido": "El país más pequeño del mundo es el Vaticano, con menos de 1 km² de superficie.",
+        "categoria": "Geografía"
+    },
+    {
+        "id": 25,
+        "titulo": "¿Qué es la gravedad?",
+        "contenido": "La gravedad es la fuerza que atrae los objetos hacia el centro de la Tierra o entre cuerpos con masa.",
+        "categoria": "Física"
+    },
+    {
+        "id": 26,
+        "titulo": "¿Qué es el pH?",
+        "contenido": "El pH mide cuán ácida o básica es una sustancia. Va de 0 a 14, donde 7 es neutro.",
+        "categoria": "Química"
+    },
+    {
+        "id": 27,
+        "titulo": "¿Qué son los memes?",
+        "contenido": "Son unidades de información cultural que se transmiten entre personas, a menudo de forma humorística.",
+        "categoria": "Cultura General"
+    },
+    {
+        "id": 28,
+        "titulo": "¿Qué es la capa de ozono?",
+        "contenido": "Es una región de la atmósfera que absorbe la mayor parte de la radiación ultravioleta del Sol.",
+        "categoria": "Ecología"
+    },
+    {
+        "id": 29,
+        "titulo": "¿Qué es un tsunami?",
+        "contenido": "Es una serie de olas gigantes causadas por terremotos o erupciones submarinas.",
+        "categoria": "Geografía"
+    },
+    {
+        "id": 30,
+        "titulo": "¿Qué es el sistema nervioso?",
+        "contenido": "Es el sistema del cuerpo que controla las respuestas del organismo, compuesto por el cerebro, médula y nervios.",
+        "categoria": "Biología"
+    },
+    {
+        "id": 31,
+        "titulo": "¿Quién fue Marie Curie?",
+        "contenido": "Fue una científica pionera en el estudio de la radiactividad y ganadora de dos premios Nobel.",
+        "categoria": "Historia"
+    },
+    {
+        "id": 32,
+        "titulo": "¿Qué es la inflación?",
+        "contenido": "Es el aumento generalizado de los precios de bienes y servicios en un periodo de tiempo.",
+        "categoria": "Finanzas"
+    },
+    {
+        "id": 33,
+        "titulo": "¿Qué es un agujero negro?",
+        "contenido": "Es una región del espacio donde la gravedad es tan fuerte que nada, ni siquiera la luz, puede escapar.",
+        "categoria": "Astronomía"
+    },
+    {
+        "id": 34,
+        "titulo": "¿Qué es el teorema de Pitágoras?",
+        "contenido": "Es una relación matemática que dice que en un triángulo rectángulo, el cuadrado de la hipotenusa es igual a la suma de los cuadrados de los catetos.",
+        "categoria": "Matemáticas"
+    },
+    {
+        "id": 35,
+        "titulo": "¿Qué es el cambio climático?",
+        "contenido": "Es la alteración del clima global causada en gran parte por la actividad humana, especialmente la emisión de gases de efecto invernadero.",
+        "categoria": "Ecología"
+    },
+    {
+        "id": 36,
+        "titulo": "¿Qué es la energía renovable?",
+        "contenido": "Es aquella que se obtiene de fuentes naturales que se reponen constantemente, como el sol, el viento o el agua.",
+        "categoria": "Ciencia"
+    },
+    {
+        "id": 37,
+        "titulo": "¿Quién fue Albert Einstein?",
+        "contenido": "Fue un físico teórico conocido por la teoría de la relatividad y por su famosa ecuación E=mc².",
+        "categoria": "Historia"
+    },
+    {
+        "id": 38,
+        "titulo": "¿Qué es el sistema inmunológico?",
+        "contenido": "Es el sistema de defensa del cuerpo que protege contra enfermedades y organismos invasores.",
+        "categoria": "Salud"
+    },
+    {
+        "id": 39,
+        "titulo": "¿Qué es una célula?",
+        "contenido": "Es la unidad básica de los seres vivos. Todos los organismos están formados por células.",
+        "categoria": "Biología"
+    },
+    {
+        "id": 40,
+        "titulo": "¿Qué es la inteligencia artificial?",
+        "contenido": "Es la simulación de la inteligencia humana en máquinas que pueden aprender, razonar y resolver problemas.",
+        "categoria": "Tecnología"
+    },
+    {
+        "id": 41,
+        "titulo": "¿Qué es un haiku?",
+        "contenido": "Es un tipo de poema japonés breve que suele evocar la naturaleza y sigue una estructura de 5-7-5 sílabas.",
+        "categoria": "Lenguaje"
+    },
+    {
+        "id": 42,
+        "titulo": "¿Qué es el Big Bang?",
+        "contenido": "Es la teoría que explica el origen del universo como una expansión a partir de un punto extremadamente denso y caliente.",
+        "categoria": "Astronomía"
+    },
+    {
+        "id": 43,
+        "titulo": "¿Qué es la tabla periódica?",
+        "contenido": "Es una organización de los elementos químicos según su número atómico, propiedades y estructura electrónica.",
+        "categoria": "Química"
+    },
+    {
+        "id": 44,
+        "titulo": "¿Qué es el reciclaje?",
+        "contenido": "Es el proceso de convertir materiales desechados en nuevos productos para reducir el uso de recursos naturales.",
+        "categoria": "Ecología"
+    },
+    {
+        "id": 45,
+        "titulo": "¿Qué es el sistema digestivo?",
+        "contenido": "Es el conjunto de órganos que transforma los alimentos en nutrientes y elimina los desechos.",
+        "categoria": "Biología"
+    },
+    {
+        "id": 46,
+        "titulo": "¿Qué es un software?",
+        "contenido": "Es el conjunto de programas y datos que indican a un computador cómo debe funcionar.",
+        "categoria": "Tecnología"
+    },
+    {
+        "id": 47,
+        "titulo": "¿Qué es el ahorro?",
+        "contenido": "Es la parte del ingreso que no se gasta y se guarda para necesidades futuras.",
+        "categoria": "Finanzas"
+    },
+    {
+        "id": 48,
+        "titulo": "¿Qué es un verbo?",
+        "contenido": "Es una palabra que indica acción, estado o proceso, como correr, ser o pensar.",
+        "categoria": "Lenguaje"
+    },
+    {
+        "id": 49,
+        "titulo": "¿Qué es una bacteria?",
+        "contenido": "Es un microorganismo unicelular que puede ser beneficioso o causar enfermedades.",
+        "categoria": "Biología"
+    },
+    {
+        "id": 50,
+        "titulo": "¿Qué es la fotosfera del Sol?",
+        "contenido": "Es la capa visible del Sol desde la Tierra, donde se emite la mayor parte de su luz.",
+        "categoria": "Astronomía"
+    }
+]
